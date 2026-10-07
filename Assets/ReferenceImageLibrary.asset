@@ -11,19 +11,19 @@ MonoBehaviour:
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
   m_Name: ReferenceImageLibrary
-  m_EditorClassIdentifier: 
-  m_GuidLow: 4977448941897422999
-  m_GuidHigh: 18180124568216213676
+  m_EditorClassIdentifier: Unity.XR.ARSubsystems::UnityEngine.XR.ARSubsystems.XRReferenceImageLibrary
+  m_GuidLow: 5613087750928704619
+  m_GuidHigh: 8417769008953815738
   m_DataStore:
     m_Storage: []
   m_Images:
   - m_SerializedGuid:
-      m_GuidLow: 5221117425768994269
-      m_GuidHigh: 2800764005946258061
+      m_GuidLow: 5621140211827123902
+      m_GuidHigh: 8938004235361496204
     m_SerializedTextureGuid:
       m_GuidLow: 15858323964579448235
       m_GuidHigh: 10006462179477664459
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
-    m_Name: creeper
+    m_Name: Creeper
     m_Texture: {fileID: 2800000, guid: f1d285ab159fdc14cbb225f25518de8a, type: 3}
