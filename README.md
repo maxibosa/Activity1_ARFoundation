@@ -7,6 +7,7 @@ Basado en la plantilla AR Mobile de Unity, implementa las siguientes funcionalid
 - Image Tracking
 - Plane Detection
 - Anchors
+- Point Cloud
 
 El proyecto está desarrollado específicamente para dispositivos Android.
 
@@ -45,6 +46,9 @@ Permite detectar superficies planas del entorno, como el suelo, mesas o paredes,
 
 Los Anchors son puntos de referencia que permiten mantener la posición y orientación de un objeto virtual de forma estable respecto al entorno real. Gracias a ellos, los modelos pueden permanecer correctamente posicionados dentro del espacio AR.
 
+### Point Cloud
+
+Permite representar mediante puntos las características del entorno detectadas por el dispositivo. Estos puntos proporcionan información espacial que puede utilizarse como referencia para posicionar y alinear objetos virtuales dentro del entorno AR.
 
 Equipo de proyecto:
 
