@@ -27,3 +27,13 @@ MonoBehaviour:
     m_SpecifySize: 0
     m_Name: creeper
     m_Texture: {fileID: 2800000, guid: f1d285ab159fdc14cbb225f25518de8a, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4683846198863212244
+      m_GuidHigh: 7142725935276206472
+    m_SerializedTextureGuid:
+      m_GuidLow: 2325248238617678162
+      m_GuidHigh: 15219249689255949593
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: TNT
+    m_Texture: {fileID: 2800000, guid: 0d68d152f0f4204419351314f5a235d3, type: 3}
